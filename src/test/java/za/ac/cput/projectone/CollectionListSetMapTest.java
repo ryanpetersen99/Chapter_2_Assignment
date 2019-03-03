@@ -10,7 +10,7 @@ import org.junit.Test;
 import java.util.*;
 
 /**
- * Unit test for simple ColletionListSetMap.
+ * Unit test for simple CollectionListSetMap.
  * Ryan Petersen 217027806
  * 3G
  * Chapter 2 Assignment Question 1
